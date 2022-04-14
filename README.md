@@ -2,7 +2,7 @@
 Final project with Tech Elevator
 
 This poject is entitled Immerse. We worked as of team of three developers and organized our code in 3 day sprints. 
-Our goal was to encourage a love of reading in children and their families and give them a tool that would encourage them to dive into diffrent worlds through reading.
+Our goal was to encourage a love of reading in children and their families while giving them a tool that would encourage them to dive into diffrent worlds through reading.
 
 This reading tracker app that allows users to record reading activity, add books to a shared family library, and maintain their own personal library. 
 This app offers accessibility through design features. The Design considers individuals with color blindness as well as individuals on the Autism Spectrum.
